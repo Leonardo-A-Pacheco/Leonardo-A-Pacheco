@@ -18,14 +18,7 @@ Welcome to my GitHub profile! I'm passionate about research and science, working
 
 ## Key Technologies
 
-- Python
-- SQL
-- PHP
-- Javascript
-- GIT
-- DAX
-- VBA
-- C#
+ - Python - SQL - PHP - Javascript - BASH - GIT - DAX - VBA - C#
 
 ## Featured Projects
 
@@ -35,6 +28,7 @@ Welcome to my GitHub profile! I'm passionate about research and science, working
 - Process automations with Python
 - Teacher of Linux terminal, MySQL, WSL2, and introductory JAVA courses
 - Cloud web applications manager
+- Wordpress sites mananger
 - Technology and applications consultant
 
 ## Profile Objective
