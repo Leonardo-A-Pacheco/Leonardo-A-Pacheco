@@ -9,8 +9,6 @@
 Leonardo-A-Pacheco/Leonardo-A-Pacheco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
 # - 👋 Hello, i'm Leonardo-A-Pacheco
 - 👀 I'm interested in Science in general
 - 🌱 I am currently learning Data Science and DevOps
@@ -63,7 +61,7 @@ I have a special passion for solving mathematical problems with large datasets.
 ## Contact
 
 Links below my profile picture.
-
+secondary perfil Github: https://github.com/MrLap
 ## Tips for Collaborators
 
 I'm open to collaborations in various areas, especially in projects related to [mention specific areas if applicable].
