@@ -56,9 +56,6 @@ I have a special passion for solving mathematical problems with large datasets.
 
 Links below my profile picture.
 secondary perfil Github: https://github.com/MrLap
-## Tips for Collaborators
-
-I'm open to collaborations in various areas, especially in projects related to [mention specific areas if applicable].
 
 ## License
 
